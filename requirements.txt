@@ -1,0 +1,5 @@
+numpy
+scipy
+chromadb
+sentence-transformers
+langchain
